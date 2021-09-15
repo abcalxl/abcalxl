@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Daniel Min.
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning MEng Computer Science at UCL.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Software Engineering and Data.
+- 🌱 I’ve studied MEng Computer Science at UCL.
 - 📫 How to reach me: khdanielmin@gmail.com
 
 <!---
